@@ -1,4 +1,4 @@
-Contact
+Kontakt
 ==============================================
 
-Any questions about this site can be emailed to [Mikael Roos](https://mikaelroos.se) on (mos@dbwebb.se).
+Om du har frågor kontakta mig gärna via mail [Bartłomiej Stępień](mailto:nerdianin@gmail.com).

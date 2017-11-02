@@ -1,5 +1,5 @@
-Copyright &copy; 2012-2016 [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se)
+Copyright &copy; 2017 [Bartłomiej Stępień](https://github.com/Aquerr)
 
 * [License](license)
 * [Cookies](cookies)
-* [Contact](contact)
+* [Kontakt](contact)

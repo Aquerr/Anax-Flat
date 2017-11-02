@@ -1,10 +1,10 @@
-About this site
+Om sidan
 ==============================================
 
-The primary focus of this site is to:
+[![Github](img/github.png)](https://github.com/Aquerr/Anax-Flat)
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+Den här sidan används för [design kursen på dbwebb](http://dbwebb.se/design).
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Source för den här sidan kan du hitta på [Github](https://github.com/Aquerr/Anax-Flat).
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+Webplatsen är skapat av [Bartłomiej Stępień](https://github.com/Aquerr).

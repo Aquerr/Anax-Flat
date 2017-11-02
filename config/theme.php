@@ -15,7 +15,7 @@ return [
             // General
             "htmlClass"     => ["anax-flat"],
             "bodyClass"     => [],
-            "lang"          => "en",
+            "lang"          => "sv",
             "charset"       => "utf-8",
             "title_append"  => " | Anax Flat",
             "favicon"       => "img/favicon/favicon_256x256.png",
@@ -50,7 +50,7 @@ return [
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "Anax Flat",
+                "siteLogoText"  => "Me-Sida",
                 "siteLogoTextIcon" => "img/favicon/favicon_40x40.png",
                 "siteLogoTextIconAlt" => "Small logo",
                 "siteLogo"      => null, //"img/anax.png",
@@ -93,6 +93,15 @@ return [
             ],
             "sort" => 1
         ],
+        // [
+        //     "region" => "byline",
+        //     "template" => "default/block",
+        //     "data" => [
+        //         "class" => "byline",
+        //         "contentRoute" => "block/byline",
+        //     ],
+        //     "sort" => 2
+        // ],
         [
             "region" => "footer",
             "template" => "default/block",
