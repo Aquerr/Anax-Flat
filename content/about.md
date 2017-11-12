@@ -2,7 +2,7 @@ Om sidan
 ==============================================
 
 <a class="about-github-img" href="https://github.com/Aquerr/Anax-Flat">
-    <img src="img/github.png" alt="github"/>
+    <img src="./img/github.png" alt="github"/>
 </a>
 
 Den här sidan används för [design kursen på dbwebb](http://dbwebb.se/design).
