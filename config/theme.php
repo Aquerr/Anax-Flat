@@ -95,15 +95,15 @@ return [
             ],
             "sort" => 1
         ],
-        // [
-        //     "region" => "byline",
-        //     "template" => "default/block",
-        //     "data" => [
-        //         "class" => "byline",
-        //         "contentRoute" => "block/byline",
-        //     ],
-        //     "sort" => 2
-        // ],
+        [
+            "region" => "byline",
+            "template" => "default/block",
+            "data" => [
+                "class" => "byline",
+                "contentRoute" => "block/byline",
+            ],
+            "sort" => 2
+        ],
         [
             "region" => "footer",
             "template" => "default/block",
