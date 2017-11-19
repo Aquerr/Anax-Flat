@@ -26,6 +26,12 @@ return [
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("Om")
             ],
+
+            "grid" => [
+                "text" => t("Grid"),
+                "url" => $this->di->get("url")->create("grid"),
+                "title" => t("Grid")
+            ],
         ],
     ],
 
@@ -54,6 +60,12 @@ return [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
+            ],
+
+            "grid" => [
+                "text" => t("Grid"),
+                "url" => $this->di->get("url")->create("grid"),
+                "title" => t("Grid")
             ],
         ],
     ],
