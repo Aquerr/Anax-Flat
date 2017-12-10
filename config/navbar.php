@@ -38,6 +38,12 @@ return [
                 "url" => $this->di->get("url")->create("typography"),
                 "title" => t("Typography")
             ],
+
+            "theme" => [
+                "text" => t("Theme"),
+                "url" => $this->di->get("url")->create("theme"),
+                "title" => t("Theme")
+            ],
         ],
     ],
 
@@ -78,6 +84,12 @@ return [
                 "text" => t("Typography"),
                 "url" => $this->di->get("url")->create("typography"),
                 "title" => t("Typography")
+            ],
+
+            "theme" => [
+                "text" => t("Theme"),
+                "url" => $this->di->get("url")->create("theme"),
+                "title" => t("Theme")
             ],
         ],
     ],
